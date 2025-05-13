@@ -1,6 +1,6 @@
-.dark-mode {
-  background-color: darkslategray;
+.btn{
+  background-color: blue;
 }
-.action-button {
-  background-color: blueviolet;
+.dark-mode{
+  background-color: rgb(44, 102, 102);
 }
